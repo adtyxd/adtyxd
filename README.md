@@ -15,7 +15,7 @@
 - 🧠 Special interest in **Python Development**, **Machine Learning**, **Computer Vision**, and **Cloud Computing**.
 - 💬 Experienced in organizing and managing technical events as part of the Computer Society of India at KJSIT.
 - 🚀 Developed projects ranging from an integrated tourism platform to a multifunctional voice assistant using Python.
-- 📫 Reach me at **adityaa1722@gmil.com**
+- 📫 Reach me at **adityaa1722@gmail.com**
 
 ---
 
