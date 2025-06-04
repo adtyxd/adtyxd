@@ -49,29 +49,5 @@
 - **Voice Assistant AI**: A multifunctional assistant crafted in Python for automating tasks like web scraping, OS control, and more. Utilizes libraries such as PyAutoGUI, pyttsx3, BeautifulSoup, and PyWhatKit.
 - **MS Word Automation**: An innovative project that generates Word documents based on simple user prompts, allowing you to create customized documents by just describing what you need.
 
----
 
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaDeshpande&show_icons=true&theme=tokyonight" alt="AdityaDeshpande Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaDeshpande&theme=tokyonight" alt="AdityaDeshpande Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaDeshpande&layout=compact&theme=tokyonight" alt="AdityaDeshpande Top Languages" />
-</p>
-
----
-
-<h3 align="center">🔗 Let's Connect!</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adityaa1722@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Gmail" />
-  </a>
-</p>
+  
